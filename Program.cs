@@ -43,7 +43,7 @@ class Program
         }
         else
         {
-            Console.WriteLine("\nInvalid operator!");
+            Console.WriteLine("\nPlease input correct operator!");
             valid = false;
         }
 

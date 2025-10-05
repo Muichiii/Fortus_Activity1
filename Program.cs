@@ -44,7 +44,7 @@ class Program
         }
         else
         {
-            Console.WriteLine("\nPlease input correct operator!");
+            Console.WriteLine("\nInvalid operator!");
             valid = false;
         }
 

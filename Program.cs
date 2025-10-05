@@ -38,6 +38,7 @@ class Program
             else
             {
                 Console.WriteLine("\nError: Cannot divide by zero!");
+                Console.WriteLine("Please try again!");
                 valid = false;
             }
         }
